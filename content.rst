@@ -6,3 +6,7 @@ Saturday
 --------
 
 First Post!
+
+----
+
+Second post!
