@@ -11,10 +11,13 @@ Saturday 2015-08-01
 About the blog (this is a test)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This blog was created in perpetration for my trip to Europe in about 3 weeks. I wanted to see how difficult it would be to make a blog that could be updated on the go, version controle with git, and not ssh into a computer to make changes.
+This blog was created in preparation for my trip to Europe in about 3 weeks. I wanted to see how difficult it would be to make a blog that could be updated on the go, version controle with git, and would not require me to log into a laptop or server to make changes.
 
-I ended up using PageUp (link in the footer), along with Github Gists to make a mostly useful platform. New changes are pushed to Github, my personal server pulls those changes every 10 minutes, and this page is rebuilt pretty painlessly. Best of all with a git client on my phone I can make updates anywhere with a signal and I don't need to bust my laptop out. 
+I ended up using PageUp (link in the footer), along with Github Gists (also linked in the footer) to make a mostly useful platform. New changes are pushed to Github, my personal server pulls those changes every 10 minutes, and this page is rebuilt pretty painlessly.
 
-It wasn't as easy as using a platform like Twitter, but just like when everything I try to make, I our something together I would want to use and interact with. If a friend started a live blog for a specific event, I would follow it over their Twitter feed any day. Plus I dont have the character limit of Twitter. 
+Best of all: with a git client on my phone I can make updates anywhere that has a signal and I don't need to bust my laptop out. I wrote this post while I was on the toilet!
 
-Don't call me on that one... I am pretty forgetful and would probably forget to check their live blog. But I would feel *very* bad when I forgot to check it. 
+It wasn't as easy as using an established platform like Twitter, but just like with everything I try to make, I put something together I would want to use and interact with. If a friend started a live blog for a specific event I would follow it over their Twitter feed any day. Plus I dont have to deal with the character limit of Twitter.
+
+.. image:: http://imgur.com/gallery/UqagMWc 
+	:width: 50%
