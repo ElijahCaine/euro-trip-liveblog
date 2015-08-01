@@ -1,15 +1,23 @@
 Liveblog!
 =========
 
+A liveblog by Eli for __________. First post at the bottom. Most recent post at the top.
+
+.. _Eli: http://elijahcaine.me
+
 Saturday
 --------
 
-First Post!
+Fourth post
 
 ----
 
-Second post!
+Third post.
 
 ----
 
-Third post!
+Second post.
+
+----
+
+First post.
