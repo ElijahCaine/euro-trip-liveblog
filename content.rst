@@ -3,7 +3,7 @@ Liveblog!
 
 `My`_ little liveblog. Mostly just for fun, that may change.The first post is at the bottom, most recent post is at the top.
 
-.. _Eli: http://elijahcaine.me
+.. _My: http://elijahcaine.me
 
 Saturday 2015-08-01
 -------------------
