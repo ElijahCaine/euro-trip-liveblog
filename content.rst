@@ -1,7 +1,7 @@
 Liveblog!
 =========
 
-A liveblog by Eli for __________. First post at the bottom. Most recent post at the top.
+A liveblog by Eli for __________. First post at the bottom, most recent at the top.
 
 .. _Eli: http://elijahcaine.me
 
