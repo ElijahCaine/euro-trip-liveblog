@@ -19,5 +19,5 @@ Best of all: with a git client on my phone I can make updates anywhere that has 
 
 It wasn't as easy as using an established platform like Twitter, but just like with everything I try to make, I put something together I would want to use and interact with. If a friend started a live blog for a specific event I would follow it over their Twitter feed any day. Plus I dont have to deal with the character limit of Twitter.
 
-.. image:: http://imgur.com/gallery/UqagMWc 
-	:width: 50%
+.. image:: http://imgur.com/m0RJxCk.png
+	:width: 100%
