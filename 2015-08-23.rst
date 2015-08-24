@@ -1,10 +1,10 @@
 Sunday 2015-08-23
 -----------------
 
-All Packed Up
-~~~~~~~~~~~~~
+All Packed
+~~~~~~~~~~
 
-So I'm all packed up.
+So I'm all packed up and ready to go.
 
 .. figure:: http://i.imgur.com/gtFk6YA.jpg
     :align: center
@@ -22,4 +22,4 @@ most of it practical. I'm packing an extra bag for all of the trinkets I'll
 bring back.
 
 Let me know if you want anything (if you know how to contact me we're close
-enough for you to ask.
+enough for you to ask.)
