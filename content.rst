@@ -13,6 +13,10 @@ Oldest posts are at the bottom, newer posts are at the top.
 
 ----
 
+.. include:: 2015-08-24_2015-08-25.rst
+
+----
+
 .. include:: 2015-08-23.rst
 
 ----
