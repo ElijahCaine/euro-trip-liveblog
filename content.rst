@@ -11,6 +11,10 @@ Oldest posts are at the bottom, newer posts are at the top.
 .. _My: http://elijahcaine.me
 .. _Write the Docs - Europe: http://www.writethedocs.org/conf/eu/2015/speakers/
 
+---- 
+
+.. include:: 2015-08-26.rst
+
 ----
 
 .. include:: 2015-08-24_2015-08-25.rst
