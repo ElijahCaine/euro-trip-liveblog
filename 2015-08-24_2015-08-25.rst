@@ -67,7 +67,7 @@ anything.
 I ended up finding a bar and enjoying a Belgian White Beer. 
 It tasted `surprisingly good`_
 
-.. figure:: http://i.imgur.com/ab22x3s
+.. figure:: http://i.imgur.com/ab22x3s.jpg
     :align: center 
     :width: 95%
 
