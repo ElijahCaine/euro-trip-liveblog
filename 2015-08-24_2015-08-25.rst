@@ -54,3 +54,23 @@ Here's some pictures I took:
 *Some goats I found.*
 
 Aaaaaaaand naptime. 
+
+Day 0: Part 2 
+~~~~~~~~~~~~~ 
+
+I finished today by going to the Red Light District. There 
+were a lot of half naked ladies in windows. They kept winking 
+at me. I'm pretty sure they liked me; it's not like they 
+*definitely* have a monetary incentive to get my attention or 
+anything.
+
+I ended up finding a bar and enjoying a Belgian White Beer. 
+It tasted `surprisingly good`_
+
+.. figure:: http://i.imgur.com/ab22x3s
+    :align: center 
+    :width: 95%
+
+*So this is what it feels like to drink in a bar... neat.*
+
+.. _surprisingly good: https://xkcd.com/1534/
