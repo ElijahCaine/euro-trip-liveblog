@@ -1,5 +1,5 @@
 Euro-trip Live(ish\*)blog
-=======================
+=========================
 
 `My`_ little liveblog / travelblog thing, covering everything 
 leading up to and including my trip to Amsterdam and Prague to 
