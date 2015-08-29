@@ -19,6 +19,10 @@ Facebook, this real-ish-time blogging is a learning process for me.
 
 ---- 
 
+.. include:: 2015-08-29.rst 
+
+---- 
+
 .. include:: 2015-08-28.rst 
 
 ----
