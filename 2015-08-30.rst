@@ -1,5 +1,8 @@
+Sunday 2015-08-30 
+-----------------
+
 Prague Day 1
-------------
+~~~~~~~~~~~~
 
 I went on a wonderful `city tour`_ of Prague provided by Write The Docs. We
 crossed some bridges, saw some castles, and experienced many wonderful parts of
