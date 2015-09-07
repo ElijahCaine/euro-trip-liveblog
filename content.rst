@@ -17,6 +17,10 @@ Facebook, this real-ish-time blogging is a learning process for me.
 .. _My: http://elijahcaine.me
 .. _Write the Docs - Europe: http://www.writethedocs.org/conf/eu/2015/speakers/
 
+---- 
+
+.. include:: 2015-09-01.rst
+
 ----
 
 .. include:: 2015-08-30.rst
