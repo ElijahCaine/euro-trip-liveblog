@@ -5,14 +5,20 @@ Euro-trip Well-After-The-Fact Blog
 leading up to and including my trip to Amsterdam and Prague to 
 speak at `Write the Docs - Europe`_.
 
-Please excuse the spelling errors, English is only my frist 
+Please excuse the spelling errors, English is only my first 
 language.
 
 Oldest posts are at the bottom, newer posts are at the top.
 
-\* live-ish = gets updated about once a day. Don't expect 
-real-time updates; it's a miracle when I remember to update my 
-Facebook, this real-ish-time blogging is a learning process for me. 
+\* Well-After-The-Fact = It was originally a liveblog, then a live(ish) blog,
+then I took two weeks off to write the last three days worth of posts --
+basically I'm just glad I was able to stick with it to the end, even if it was
+a bit delayed getting finished.
+
+.. note::
+
+    Posts for this liveblog have ceased. Keep an eye out for my next trip when
+    I will try my hand at live-blogging again :)
 
 .. _My: http://elijahcaine.me
 .. _Write the Docs - Europe: http://www.writethedocs.org/conf/eu/2015/speakers/
