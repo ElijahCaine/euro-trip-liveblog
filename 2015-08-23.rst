@@ -8,7 +8,7 @@ So I'm all packed up and ready to go.
 
 .. figure:: http://i.imgur.com/gtFk6YA.jpg
     :align: center
-    :width: 95%
+    :width: 100%
 
 **Left:** Chargers, electronics, entertainment, toiletries, water bottle,
 wallet, etc.

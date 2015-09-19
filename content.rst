@@ -1,5 +1,5 @@
-Euro-trip Live(ish\*)blog
-=========================
+Euro-trip Well-After-The-Fact Blog
+==================================
 
 `My`_ little liveblog / travelblog thing, covering everything 
 leading up to and including my trip to Amsterdam and Prague to 
@@ -16,6 +16,18 @@ Facebook, this real-ish-time blogging is a learning process for me.
 
 .. _My: http://elijahcaine.me
 .. _Write the Docs - Europe: http://www.writethedocs.org/conf/eu/2015/speakers/
+
+----
+
+.. include:: 2015-09-03.rst
+
+----
+
+.. include:: 2015-09-02.rst
+
+----
+
+.. include:: 2015-09-01.rst
 
 ---- 
 

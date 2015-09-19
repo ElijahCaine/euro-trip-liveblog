@@ -10,7 +10,7 @@ the city.
 
 .. figure:: http://i.imgur.com/CkzXuxl.jpg
     :align: center
-    :width: 85%
+    :width: 100%
 
 *Here's me in front of a church eating some gelato.*
 
@@ -20,7 +20,7 @@ a model train.
 
 .. figure:: http://i.imgur.com/iJujmTR.jpg
     :align: center
-    :width: 85%
+    :width: 100%
 
 *This is the train that brought us beer.*
 
@@ -29,11 +29,11 @@ architecture a lot.
 
 .. figure:: http://i.imgur.com/y6Rbrin.jpg
     :align: center
-    :width: 85%
+    :width: 100%
 
 .. figure:: http://i.imgur.com/WD6k8xa.jpg
     :align: center
-    :width: 85%
+    :width: 100%
 
 *They are so cool. I haven't found the words to describe why, but the asthetics
 please me.*
